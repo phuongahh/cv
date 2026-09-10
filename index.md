@@ -52,6 +52,12 @@ Frontend-focused Software Engineer with 3 years of experience building modern, r
 
 ## Experiences
 
+`2026-now`
+**8xFF Foundation**, Hanoi, Vietnam
+
+- Engineered Wrap-Cloud, a high-performance reverse proxy website built with Rust and HTMX for fast, low-latency traffic routing and real-time management.
+- HTMX + Rust
+
 `2024-now`
 **Cybershark**, Hanoi, Vietnam
 
@@ -68,7 +74,7 @@ Frontend-focused Software Engineer with 3 years of experience building modern, r
 
 Native: Vietnamese
 
-Working: English
+Working: English, Japanese
 
 ## Personal
 
