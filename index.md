@@ -27,13 +27,24 @@ Frontend-focused Software Engineer with 3 years of experience building modern, r
 ## Highlight projects
 
 `2026`
-**A high-performance reverse proxy Gateway** built with **Rust and Pingora** for low-latency traffic management, featuring a fast, server-driven administration dashboard using **HTMX**.
+**A high-performance reverse proxy Gateway**
+
+- Engineered low-latency routing and proxy logic using **Pingora framework** to handle high-throughput network requests.
+- Designed a lightweight, server-driven control panel with **HTMX**, drastically reducing client-side JavaScript overhead.
+- Leveraged asynchronous programming in **Rust (Tokio)** for memory-safe, concurrent connection handling and optimal CPU resource utilization.
 
 `2023-2025`
-**A global residential proxy platform** providing real-time data visualization, dynamic proxy management, and interactive analytics dashboards through a high-performance ReactJS user interface.
+**Global Residential Proxy**
+
+- Architected real-time data visualization dashboards using **ReactJS** to display bandwidth usage, IP latency, and active session status.
+- Built an integrated e-commerce and affiliate reward portal, streamlining user checkout funnels and commission tracking.
 
 `2022-2023`
-An interactive **e-learning platform** supporting live virtual classrooms, online assignments, and comprehensive learning progress tracking with a modern ReactJS user interface.
+**Interactive E-Learning & Virtual Classroom Platform**
+
+- Developed responsive UI components for live virtual classrooms with interactive video player integration and real-time messaging.
+
+- Built automated assignment submission modules and progress-tracking charts using **ReactJS** and data visualization libraries.
 
 ## Education
 
