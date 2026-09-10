@@ -43,7 +43,6 @@ Frontend-focused Software Engineer with 3 years of experience building modern, r
 **Interactive E-Learning & Virtual Classroom Platform**
 
 - Developed responsive UI components for live virtual classrooms with interactive video player integration and real-time messaging.
-
 - Built automated assignment submission modules and progress-tracking charts using **ReactJS** and data visualization libraries.
 
 ## Education
